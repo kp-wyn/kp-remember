@@ -8,10 +8,10 @@
 
 | 口令 | 技能 | 状态 | 干什么 |
 | --- | --- | --- | --- |
-| 记一下 | kp-remember | 已推出（本技能） | 原样接住、零加工 |
-| 收拾一下 | kp-tidy-up | 已推出 | 批量整理积压旧笔记 |
+| 记一下 | [kp-remember](https://github.com/kp-wyn/kp-remember) | 已推出（本技能） | 原样接住、零加工 |
+| 收拾一下 | [kp-tidy-up](https://github.com/kp-wyn/kp-tidy-up) | 已推出 | 批量整理积压旧笔记 |
 | 消化一下 | kp-digest | 挂载版已建／对外即将推出 | 当场提炼新碎片为要点／知识卡 |
-| 理一下 | kp-sum-up | 已推出 | 汇总记录成总结与计划 |
+| 理一下 | [kp-sum-up](https://github.com/kp-wyn/kp-sum-up) | 已推出 | 汇总记录成总结与计划 |
 
 ## 特性
 

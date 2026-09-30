@@ -8,10 +8,10 @@
 
 | Command | Skill | Status | What it does |
 | --- | --- | --- | --- |
-| 记一下 (Capture) | kp-remember | Released (this skill) | Stores content as-is, zero processing |
-| 收拾一下 (Tidy up) | kp-tidy-up | Released | Batch-organizes a backlog of old notes |
+| 记一下 (Capture) | [kp-remember](https://github.com/kp-wyn/kp-remember) | Released (this skill) | Stores content as-is, zero processing |
+| 收拾一下 (Tidy up) | [kp-tidy-up](https://github.com/kp-wyn/kp-tidy-up) | Released | Batch-organizes a backlog of old notes |
 | 消化一下 (Digest) | kp-digest | Mounted version ready; standalone coming soon | Distills fresh fragments on the spot |
-| 理一下 (Sum up) | kp-sum-up | Released | Turns records into a summary and plan |
+| 理一下 (Sum up) | [kp-sum-up](https://github.com/kp-wyn/kp-sum-up) | Released | Turns records into a summary and plan |
 
 ## Features
 
